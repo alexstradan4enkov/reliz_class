@@ -69,7 +69,7 @@ public class SimpleStringArray {
         System.out.println();
     }
 
-    // Сколько строк сейчас
+    // Сколько строк 
     public int getCount() {
         return count;
     }
