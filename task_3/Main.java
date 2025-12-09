@@ -44,7 +44,7 @@ public class Main {
 
         System.out.println("\n=== Проверка ошибок ===");
 
-        // Массив на 3 элемента
+        // Массив на 3 эл
         SimpleStringArray small = new SimpleStringArray(3);
         small.add("раз");
         small.add("два");
