@@ -43,7 +43,7 @@ public class SimpleStringArray {
         return strings[count - 1]; // Последняя самая длинная
     }
 
-    // Средняя длина
+    // Средняя длина 
     public double getAverage() {
         if (count == 0) {
             return 0;
